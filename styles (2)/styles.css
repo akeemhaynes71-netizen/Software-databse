@@ -1,0 +1,22 @@
+/* 
+    Author: Your Full Name
+    Date: 2025-06-12
+    hello 
+*/
+
+header, footer {
+    background-color: navy;
+}
+
+h2 {
+    background-color: khaki;
+}
+
+footer p {
+    text-align: right;
+    color: khaki;
+}
+
+header h1, #company {
+    color: white;
+}
