@@ -37,10 +37,10 @@ A collection of small Python scripts that automate repetitive system admin and n
 ### 📫 Connect with Me
 - 📧 **Email:** [akeemhaynes71@gmail.com](mailto:akeemhaynes71@gmail.com)  
 - 💼 **GitHub:** [github.com/akeemhaynes71-netizen](https://github.com/akeemhaynes71-netizen)  
-- 🌐 *(Optional: Add LinkedIn link here if you have one)*
+- 🌐 
 
 ---
 
 ⭐️ *"Code with clarity. Build with purpose."*
-# Software-databse
+
 
